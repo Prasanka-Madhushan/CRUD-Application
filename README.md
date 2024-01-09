@@ -43,7 +43,7 @@ Install all the dependencies installed in the package.json file
 npm start
 ```
 
-3. Access the page by going to localhost: 5000
+3. Access the page by going to localhost: 3000
 
 
 
